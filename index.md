@@ -2,11 +2,7 @@
 
 ## Resume
 
-<img src="Pictures/Resume.jng"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
-
-### Markdown
+![title](Images/Resume.jpg)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
