@@ -2,7 +2,7 @@
 
 ## Resume
 
-<img src="Resume.jng"
+<img src="/Resume.jng"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
