@@ -6,7 +6,7 @@
 
 ## Educational Philosophy Statement
 
-dlfmgdlfgkdflgsdnflkgdfg
+If the student is overwhelmed with homework, he/she has no time to learn, so we should think the homework as a  helper to teaching, not the main method to teach.
 
 ## Work Samples
 
